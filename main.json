@@ -1,8 +1,8 @@
 {
     "tools": [
         {
-            "name": "get_remote_store",
-            "description": "Get the content of the remote store from GitHub.",
+            "name": "Enrichment Analysis",
+            "description": "Perform enrichment analysis on a given dataset using various algorithms and databases.",
             "url":"pybrave/enrichment-analysis"
         }
     ]
