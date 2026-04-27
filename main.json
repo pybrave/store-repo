@@ -4,6 +4,10 @@
             "name": "Enrichment Analysis",
             "description": "Perform enrichment analysis on a given dataset using various algorithms and databases.",
             "url":"pybrave/enrichment-analysis"
+        },{
+            "name": "Genomic Analysis (Test)",
+            "description": "A test tool for genomic analysis, designed to validate the integration and functionality of genomic analysis pipelines within the Brave platform.",
+            "url":"pybrave/genomic-analysis-test"
         }
     ]
 }
