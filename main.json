@@ -8,6 +8,10 @@
             "name": "Genomic Analysis (Test)",
             "description": "A test tool for genomic analysis, designed to validate the integration and functionality of genomic analysis pipelines within the Brave platform.",
             "url":"pybrave/genomic-analysis-test"
+        },{
+            "name": "RNA-Seq Analysis (Test)",
+            "description": "A test tool for RNA-Seq analysis, aimed at assessing the performance and accuracy of RNA-Seq data processing pipelines in the Brave platform.",
+            "url":"pybrave/rna-seq-test"
         }
     ]
 }
